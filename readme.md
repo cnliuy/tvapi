@@ -15,5 +15,7 @@
 	</properties>  
    缺失否则会报错。  
    
-2.访问地址
-   http://127.0.0.1:8888/it
+2.访问地址  
+   http://127.0.0.1:8888/it  
+  github地址  
+   https://github.com/cnliuy/tvapi.git   
