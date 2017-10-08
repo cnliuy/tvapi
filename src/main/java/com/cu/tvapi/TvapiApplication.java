@@ -17,6 +17,10 @@ public class TvapiApplication {
 	
 	/**
 	 * 增加过滤器
+	 * 
+	 * 参考 
+	 * 	http://blog.didispace.com/springcloud5/
+	 *  Spring Cloud构建微服务架构（五）服务网关
 	 * */
 	@Bean
 	public AccessFilter accessFilter() {
