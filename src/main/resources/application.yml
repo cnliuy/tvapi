@@ -5,3 +5,6 @@ zuul:
     it: #这里的配置表示，访问/it/** 直接重定向到http://www.ityouknow.com/**
       path: /it/**
       url: http://www.ityouknow.com
+      #url: http://www.xmgd.com     
+      #url: http://ityouknow.com   # 会跳转回去   
+      #strip-prefix: false
