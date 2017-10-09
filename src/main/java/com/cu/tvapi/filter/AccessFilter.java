@@ -16,7 +16,6 @@ import org.springframework.util.StreamUtils;
 import com.netflix.zuul.ZuulFilter;
 import com.netflix.zuul.context.RequestContext;
 
-import io.reactivex.netty.protocol.http.client.HttpClientBuilder;
 /**
  * 
  * http://www.troylc.cc/spring-cloud/2017/03/19/spirng-cloud-apigateway.html

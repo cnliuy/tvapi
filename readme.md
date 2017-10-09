@@ -19,3 +19,5 @@
    http://127.0.0.1:8888/it  
   github地址  
    https://github.com/cnliuy/tvapi.git   
+  参看 AccessFilter类   过滤
+   
